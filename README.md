@@ -18,3 +18,8 @@ npm start
 
 
 
+`Note`
+
+```
+các ứng dụng khác đều có thể sử dụng server này làm basic triển khai data
+```
